@@ -1,0 +1,13 @@
+{
+  "name": "todo-nodejs-app",
+  "version": "1.0.0",
+  "description": "ToDo - A sample app using Node, Express and Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies" : [],
+  "author": "Jeffin Jude Pulickal <jeffinjude@gmail.com>",
+  "license": "ISC"
+}
